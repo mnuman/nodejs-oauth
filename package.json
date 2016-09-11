@@ -1,0 +1,17 @@
+{
+  "name": "nodejs-oauth",
+  "version": "1.0.0",
+  "description" : "Microservice to store, retrieve and refresh Google OAuth2 tokens",
+  "author" : "Milco Numan <milco.numan@gmail.com>",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "dict": "^1.4.0",
+    "express": "^4.14.0",
+    "node-persist": "0.0.11",
+    "unirest": "^0.5.0"
+  }
+  , "repository" : {
+      "type" : "git"
+    , "url" : "https://github.com/mnuman/nodejs-oauth.git"
+    }
+}
